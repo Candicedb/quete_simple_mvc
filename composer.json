@@ -1,0 +1,15 @@
+{
+  "name": "wilder19/quete_simple_mvc",
+  "authors": [
+    {
+      "name": "Candice BOURGUIGNON",
+      "email": "candice.bourguignon@gmail.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "": "src/"
+    }
+  }
+}
