@@ -1,7 +1,15 @@
-<?php
-/**
- * Created by PhpStorm.
- * User: wilder19
- * Date: 07/10/18
- * Time: 10:58
- */
+
+<!DOCTYPE html>
+<html>
+<head> ... </head>
+<body>
+    <section>
+        <h1>Categories</h1>
+            <ul>
+            <?php foreach ($categories as $category) : ?>
+                <li><?= $category['title'] ?></li>
+            <?php endforeach ?>
+            </ul>
+        </section>
+</body>
+</html>

@@ -1,11 +1,4 @@
-<?php
-/**
- * Created by PhpStorm.
- * User: wilder19
- * Date: 29/09/18
- * Time: 10:07
- */
-?>
+
 <!DOCTYPE html>
 <html>
 <head> ... </head>
@@ -20,3 +13,6 @@
         </section>
 </body>
 </html>
+
+
+
